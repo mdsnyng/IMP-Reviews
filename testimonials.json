@@ -1,0 +1,7 @@
+{
+  "updatedAt": "2026-01-02T00:00:00Z",
+  "items": [
+    { "name": "Alex", "quote": "Best scale app I’ve used.", "role": "Guitarist" },
+    { "name": "Sam", "quote": "Finally makes theory click.", "role": "Teacher" }
+  ]
+}
